@@ -23,11 +23,6 @@ O objetivo aqui foi criar um *cronômetro funcional* com as opções de iniciar,
 - Condicionais (`if`, `else if`)
 - Interação e feedback visual para o usuário
 ---
-## 📷 Preview
-
-![cronometro-preview](https://via.placeholder.com/600x300?text=Preview+Cronometro)
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 - HTML5
