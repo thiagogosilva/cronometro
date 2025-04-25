@@ -25,9 +25,3 @@ Hoje desenvolvi um cronômetro completo com JavaScript, capaz de:
 - Criar funções reutilizáveis para exibir tempo
 - Melhorar o design e UX (acessibilidade, estilos)
 - Salvar tempos com localStorage (marcar voltas ou histórico)
-
-
-## 🔗 Acesse o projeto
-
-Você pode visualizar o projeto em funcionamento aqui:  
-👉 [Cronômetro - GitHub Pages]()

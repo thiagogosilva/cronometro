@@ -56,7 +56,7 @@ O objetivo aqui foi criar um *cronômetro funcional* com as opções de iniciar,
 ## 🔗 Acesse o projeto
 
 Você pode visualizar o projeto em funcionamento aqui:  
-👉 [Cronômetro - GitHub Pages]()
+👉 [Cronômetro - GitHub Pages](https://thiagogosilva.github.io/cronometro/)
 
 **Link para visualizar meu Mini Portfólio:**  
 🔗 [Mini Portfólio 💻](https://thiagogosilva.github.io/desafio-90dias-dev/)
