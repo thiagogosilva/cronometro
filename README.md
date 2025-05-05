@@ -45,8 +45,8 @@ O objetivo aqui foi criar um *cronômetro funcional* com as opções de iniciar,
 ## 🧑‍💻 Desenvolvido por
 
 **Thiago Silva**  
-[GitHub](https://github.com/thiagogosilva)
-[LinkedIn](https://www.linkedin.com/in/thiagogosilva)
+- [GitHub](https://github.com/thiagogosilva)
+- [LinkedIn](https://www.linkedin.com/in/thiagogosilva)
 
 ## 🔗 Acesse o projeto
 
